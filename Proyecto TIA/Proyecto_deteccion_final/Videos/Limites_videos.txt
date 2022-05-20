@@ -1,0 +1,45 @@
+v7.  (carros, personas, pero no se ven tan bien) 
+    	frac_lim_inf = 1/2   #Ajustar limites de corte de la imagen
+    	frac_lim_sup = 11/12
+
+    	frac_lim_inf = 3/4
+    	frac_lim_sup = 11/12
+
+v9. solo carros
+
+
+v11. más significativo (carros, personas)
+	frac_lim_inf = 3/5  
+   	frac_lim_sup = 9/10
+
+    	frac_lim_inf = 8/11
+    	frac_lim_sup = 10/11
+
+v13.  más significativo (carros, personas)
+    	frac_lim_inf = 1/2   #Ajustar limites de corte de la imagen
+    	frac_lim_sup = 6/7
+
+	frac_lim_inf = 2/3
+    	frac_lim_sup = 6/7
+
+v15.  más significativo (carros, personas)
+    	frac_lim_inf = 1/2   #Ajustar limites de corte de la imagen
+    	frac_lim_sup = 9/10
+
+    	frac_lim_inf = 7/10
+    	frac_lim_sup = 9/10
+
+v18.  mal - con lluvia
+
+    	frac_lim_inf = 1/2   #Ajustar limites de corte de la imagen
+    	frac_lim_sup = 5/6
+
+ 	frac_lim_inf = 4/6
+   	frac_lim_sup = 6/7
+
+video_Trim
+    	frac_lim_inf = 1/5   #Ajustar limites de corte de la imagen
+    	frac_lim_sup = 6/7
+
+	frac_lim_inf = 1/2
+    	frac_lim_sup = 4/5
